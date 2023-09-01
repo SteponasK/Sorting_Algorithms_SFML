@@ -1,5 +1,5 @@
 # Sorting Algorithm visualisation
-![menu_picture](ReadMe/menu.png)
+![menu_picture](ReadMe_img/menu.png)
 Sorting algorithms visualisation made using SFML and C++, used to learn how a sorting algorithm works.
 ## Available algorithms
 1. Bubble sort
@@ -9,7 +9,7 @@ Sorting algorithms visualisation made using SFML and C++, used to learn how a so
 1. Insertion Sort
 
 ## Features
- ![Sorting_Algorithm_Gif](ReadMe/sorting_algorithm.gif)
+ ![Sorting_Algorithm_Gif](ReadMe_img/sorting_algorithm.gif)
 - 5 Different Sorting Algorithms
 - Change number of Bars to be sorted
 - Change FrameRate (FPS) cap
