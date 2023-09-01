@@ -16,7 +16,7 @@ Sorting algorithms visualisation made using SFML and C++, used to learn how a so
 - Explanation, of how each sorting algorithm works.
 
 ## Prerequisites
-You need to have [CMake]((https://cmake.org/install/)) or [SFML](https://www.sfml-dev.org/download.php) installed.
+You need to have [CMake]((https://cmake.org/download/)) or [SFML](https://www.sfml-dev.org/download.php) installed.
 
 
 ## Installation    
