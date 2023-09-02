@@ -1,5 +1,6 @@
 # Sorting Algorithm visualisation
 ![menu_picture](ReadMe_img/menu.png)
+
 Sorting algorithms visualisation made using SFML and C++, used to learn how a sorting algorithm works.
 ## Available algorithms
 1. Bubble sort
