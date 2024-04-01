@@ -1,5 +1,5 @@
 # Sorting Algorithm Visualisation
-![menu_picture](ReadMe_img/menu.png)
+![menu_picture](README-images/menu.png)
 
 Educational Sorting algorithms visualisation made using SFML and C++, used to learn how a sorting algorithm works.
 __EDUCATIONAL APPLICATION__
@@ -11,7 +11,7 @@ __EDUCATIONAL APPLICATION__
 1. Insertion Sort
 
 ## 💪 Features
- ![Sorting_Algorithm_Gif](ReadMe_img/sorting_algorithm.gif)
+ ![Sorting_Algorithm_Gif](README-images/sorting_algorithm.gif)
 - 5 Different Sorting Algorithms
 - Change number of Bars to be sorted
 - Change FrameRate (FPS) cap
