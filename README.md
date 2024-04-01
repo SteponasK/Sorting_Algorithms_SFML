@@ -3,7 +3,7 @@
 
 Educational Sorting algorithms visualisation made using SFML and C++, used to learn how a sorting algorithm works.
 __EDUCATIONAL APPLICATION__
-## Available algorithms
+## 📊 Available algorithms
 1. Bubble sort
 1. Shaker (Coctail) Sort
 1. Selection Sort
