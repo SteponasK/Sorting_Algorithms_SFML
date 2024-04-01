@@ -66,7 +66,7 @@ Howerer feel free to fork this project, and experiment with your own modificatio
 
 * **SteponasK** - *Initial work* 
 
-## License
+## 📜 License
 
 This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE.txt) file for details
 
